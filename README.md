@@ -1,4 +1,4 @@
-# whitepaper
+# Whitepaper
 
 Introduction:
 
