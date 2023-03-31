@@ -18,23 +18,24 @@ Whether you are a student looking to pay for online courses, a gamer looking to 
 Technical Specifications:
 
 1.  Token Name: MPSY Coin
-2.  Token Symbol: MPSY 
+2.  Token Symbol: MPSC 
 3.  Token Standard: BEP-20 
 4.	Token Type: Utility 
 5.	Blockchain: Binance Smart Chain 
 6.	Total Supply: 15,000,000,000 (Fifteen Billion)
 7.	MPSY Decimal Places: 18 
-8.	Contract Address: TBA
+8.	Contract Address: 0x0d52B62C48b72e79a7c6E3580eF50a8E70774145
 
 
 Token Distribution:
 
 1. Initial coin offering (ICO): 40%
-2. Staking rewards: 25%
+2. Staking rewards: 23%
 3. Team and development: 15%
 4. Liquidity provision: 10%
 5. Marketing and partnerships: 5%
 6. Reserve fund: 5%
+7. Airdrops & Others: 2%
 
 
 Smart Contract:
